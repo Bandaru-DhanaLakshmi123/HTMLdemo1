@@ -1,0 +1,48 @@
+.parent {
+    width: 100%;
+}
+
+.child-heading {
+    height: 10%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.child-form {
+    width: 100%;
+    display: flex;
+}
+
+.child-form-img {
+    width: 50%;
+    height: auto;
+}
+
+.child-form-img img {
+    width: 100%;
+}
+
+.child-form-details {
+    width: 50%;
+}
+
+.input-field {
+    width: 96%;
+    padding: 2%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.input-field label {
+    width: 40%;
+}
+
+.input-field input {
+    width: 60%;
+}
+.submit-btn{
+    padding: 4% 2% 2% 50%;
+    width: 68%;
+    
+}
